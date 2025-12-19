@@ -2,12 +2,12 @@
 
 # 💫 About Me:
 
-🔭 **I’m currently working on**: AI-powered projects and smart automation tools using Python 🤖<br>
-👯 **I’m looking to collaborate on**: Open-source Discord bots, API integrations, and beginner-friendly AI tools<br>
-🤝 **I’m looking for help with**: Leveling up my Machine Learning & Neural Network skills – always open to learning from others!<br>
-🌱 **I’m currently learning**: Everything AI – from data preprocessing to deploying ML models and neural nets 🧠<br>
-💬 **Ask me about**: Python tricks, Discord bot development, REST APIs, and creative automation ideas 🛠️<br>
-⚡ **Fun fact**: I built my first bot to automate my own life – now I help bots run theirs 😄 <br>
+🔭 I’m currently working on: AI-powered applications and production-ready LLM systems using Python, FastAPI, and LangChain 🤖  
+👯 I’m looking to collaborate on: Practical AI tools, LLM-backed APIs, automation platforms, and open-source projects focused on real-world impact  
+🤝 I’m looking for help with: Advanced ML/LLM system design, evaluation, and scaling — always happy to learn from experienced practitioners  
+🌱 I’m currently learning: End-to-end AI implementation — from prompt engineering and agent workflows to async processing, caching, and cloud deployment 🧠  
+💬 Ask me about: Building AI APIs with FastAPI, LangChain + PydanticAI, background jobs with Celery, and integrating AI into real products 🛠️  
+⚡ Fun fact: I started automating small tasks — now I design AI systems that automate entire workflows 😄
 
 
 # 🌐 Socials:
