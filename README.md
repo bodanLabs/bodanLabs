@@ -62,15 +62,3 @@
 ![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white)
-
-
-
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=bodanLabs&theme=dark&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bodanLabs&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bodanLabs/bodanLabs/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bodanLabs/bodanLabs/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/bodanLabs/bodanLabs/output/github-snake.svg" />
-</picture>
