@@ -1,4 +1,10 @@
-<img src="images\banner.png" width="100%" />
+[<img src="images/banner.png" width="100%" />](https://bodanlabs.vercel.app/)
+
+<p align="center">
+  <a href="https://bodanlabs.vercel.app/" target="_blank">
+    🔗 Visit my website: <b>bodanlabs.vercel.app</b>
+  </a>
+</p>
 
 # 💫 About Me:
 
