@@ -8,12 +8,12 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on: AI-powered applications and production-ready LLM systems using Python, FastAPI, and LangChain 🤖  
+🔭 I’m currently working on: AI-powered applications and production-ready LLM systems using Python, FastAPI, LangChain/LangGraph 🤖  
 👯 I’m looking to collaborate on: Practical AI tools, LLM-backed APIs, automation platforms, and open-source projects focused on real-world impact  
-🤝 I’m looking for help with: Advanced ML/LLM system design, evaluation, and scaling — always happy to learn from experienced practitioners  
-🌱 I’m currently learning: End-to-end AI implementation — from prompt engineering and agent workflows to async processing, caching, and cloud deployment 🧠  
-💬 Ask me about: Building AI APIs with FastAPI, LangChain + PydanticAI, background jobs with Celery, and integrating AI into real products 🛠️  
-⚡ Fun fact: I started automating small tasks — now I design AI systems that automate entire workflows 😄
+🤝 I’m looking for help with: Advanced ML/LLM system design, evaluation, and scaling, always happy to learn from experienced practitioners  
+🌱 I’m currently exploring: End-to-end AI implementation: from prompt engineering and agent workflows to async processing, caching, and cloud deployment 🧠  
+💬 Ask me about: FastAPI-based AI APIs, LangChain/LangGraph, PydanticAI, Microsoft AutoGen, and background processing with Celery + Redis 🛠️  
+⚡ Fun fact: I started by automating small tasks. Now I build AI systems that automate entire workflows 😄  
 
 
 # 🌐 Socials:
