@@ -1,8 +1,8 @@
-[<img src="images/banner.png" width="100%" />](https://bodanlabs.vercel.app/)
+[<img src="images/banner.png" width="100%" />](https://bodan.dev/)
 
 <p align="center">
-  <a href="https://bodanlabs.vercel.app/" target="_blank">
-    🔗 Visit my website: <b>bodanlabs.vercel.app</b>
+  <a href="https://bodan.dev/" target="_blank">
+    🔗 Visit my website: <b>bodan.dev</b>
   </a>
 </p>
 
@@ -17,7 +17,7 @@
 
 
 # 🌐 Socials:
-[![Website](https://img.shields.io/badge/Website-000000.svg?logo=vercel&logoColor=white)](https://bodanlabs.vercel.app/)
+[![Website](https://img.shields.io/badge/Website-000000.svg?logo=vercel&logoColor=white)](https://bodan.dev/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@bodanlabs) 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@bodanlabs) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bodanlabs) 
